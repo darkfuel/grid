@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    border: 100;
+    border-width: 1px;
+    border-color: black;
+    text-align: center;
+    background-color: darkorchid;
+    color: aliceblue;
+}
+
+.main-container{
+    display: flex;
+}
+
+.aside{
+    width: 300px;
+
+}
+
+.grid-container{
+    width: 100%;
+
+}
